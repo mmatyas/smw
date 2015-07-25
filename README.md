@@ -63,30 +63,30 @@ From this menu, you can access everything else in the game.
 
 *   **Start** will take you to the Team and Character Selection screen (see below).*   **Players** allows you to change players between Player (human), Bot (computer), and None. You can't have less than two players active at any one time.*   **Match** allows you to select Single Game, Tournament 2 through 10, or any Tours you have on your machine. See Tournaments and Tours, below.*   **Options** takes you to the Options menu. For more information, check its section towards the end of this manual.*   **Controls** lets you configure the players' control schemes to your liking. For more info, check the Controls section of this manual.*   **Exit** causes the game to exit.
 
-    ### Team and Character Selection
+ ### Team and Character Selection
 
     ![](gfx/docs/ss03.png)
 
     From this screen, you can configure who is using which character and is on which team.
 
-    *   You can select what character you'd like to be, out of all the skins you have on your machine, with Up and Down.*   You can select what team you want to be on with Left and Right.*   If you want to have the game select a skin for you at random, press Up and Down together (or if using a joystick, press the Random button).*   If you want to have a different random skin at the beginning of each match, without being able to see it beforehand, press Left and Right together (or with a joystick, press the Fast-Scroll and Random buttons together), which will change your skin into a flashing letter R.*   Press your Turbo key to lock in your selection, unless you're Player 1, who uses Enter. (If you're using a joystick, press Jump to lock in your selection, no matter which player you are.)   
+ *   You can select what character you'd like to be, out of all the skins you have on your machine, with Up and Down.*   You can select what team you want to be on with Left and Right.*   If you want to have the game select a skin for you at random, press Up and Down together (or if using a joystick, press the Random button).*   If you want to have a different random skin at the beginning of each match, without being able to see it beforehand, press Left and Right together (or with a joystick, press the Fast-Scroll and Random buttons together), which will change your skin into a flashing letter R.*   Press your Turbo key to lock in your selection, unless you're Player 1, who uses Enter. (If you're using a joystick, press Jump to lock in your selection, no matter which player you are.)   
     After all players have locked in, you can press Enter on this screen to go to the Game Selection screen.
 
-    ### Game Selection
+ ### Game Selection
 
     ![](gfx/docs/ss04.png)
 
     From this menu, you can select your game mode, select the map you wish to use, change various mode settings, and tag your maps for easy selection. (When playing a Tour, all options on this screen, besides Start, are disabled.)
 
-    *   **Start** starts the game.*   **Mode** allows you to change game modes. For info on these, please refer to the Game Modes section of this manual.*   **Lives/Kills/Time/Etc.** allows you to change the current game mode's basic parameter (i.e. the game length).*   **Map** allows you to change the map you want to use. You can press Left or Right to pick another map, or hold Left Shift and press Left or Right to go forward or backward 10 maps at a time. Or you can repeatedly press a letter or a number to cycle through maps whose names start with it.*   **Filters** allows you to select maps that only meet certain criteria. You can select one or more categories (such as whether or not the map contains moving platforms) and the game will only give you maps that meet all the criteria established. The bottom category, Simple, can be used as a custom filter by selecting the green question mark icon, which will give you a thumbnail view (see below) of all the maps. From there, maps can be toggled on (signified by a little coin) and off.*   **Thumbs** allows you to view many maps at once with a "thumbnail"-style view. To view other pages, scroll up or down off the screen, or hold Left Shift and press Up or Down.
+ *   **Start** starts the game.*   **Mode** allows you to change game modes. For info on these, please refer to the Game Modes section of this manual.*   **Lives/Kills/Time/Etc.** allows you to change the current game mode's basic parameter (i.e. the game length).*   **Map** allows you to change the map you want to use. You can press Left or Right to pick another map, or hold Left Shift and press Left or Right to go forward or backward 10 maps at a time. Or you can repeatedly press a letter or a number to cycle through maps whose names start with it.*   **Filters** allows you to select maps that only meet certain criteria. You can select one or more categories (such as whether or not the map contains moving platforms) and the game will only give you maps that meet all the criteria established. The bottom category, Simple, can be used as a custom filter by selecting the green question mark icon, which will give you a thumbnail view (see below) of all the maps. From there, maps can be toggled on (signified by a little coin) and off.*   **Thumbs** allows you to view many maps at once with a "thumbnail"-style view. To view other pages, scroll up or down off the screen, or hold Left Shift and press Up or Down.
 
-    ### Playing the Game
+ ### Playing the Game
 
     ![](gfx/docs/ss05.png)![](gfx/docs/ss06.png)
 
     The main goal of the game is to stomp on your opponents' heads to kill them, although depending on the map you're playing on, you may be able to kill them in other ways, such as with items. There may also be additional rules or a different way of winning, depending on the mode you are playing; for information on these, you can check the Game Modes section of this manual. For information on the controls you'll be using to play the game, check out the section on Controls, below. And to learn about the different items and map elements you can use to turn the tables on your opponents, take a look at the Items and Special Blocks sections, towards the middle of the manual.
 
-    ### Tournaments and Tours
+ ### Tournaments and Tours
 
     ![](gfx/docs/ss07.png)![](gfx/docs/ss08.png)
 
@@ -618,7 +618,7 @@ Additional Parameters:
 
 *   **Free Timer** (# of seconds to get out of jail): None, 5, 10, 15, **20**, 25, 30, 35, 40, 45, 50, 55, 60*   **Tag Free** (whether you can tag your teammates to free them): **On**, Off
 
-    ### ![](gfx/docs/m05.png)Coin Collection
+ ### ![](gfx/docs/m05.png)Coin Collection
 
     This game isn't about killing other players, it is about collecting coins. One or more coins will appear somewhere on the map. If someone grabs a coin, or if nobody can get to one within a certain amount of time, a new one will appear somewhere else. The first player to collect X coins wins. Whether dying has an effect can be set in this mode's optins, and collecting a 1UP counts as collecting a coin.
 
@@ -626,9 +626,9 @@ Additional Parameters:
 
     Additional Parameters:
 
-    *   **Penalty** (whether there is a -1 penalty for death): On, **Off***   **Quantity** (how many coins will appear at once): **1**, 2, 3, 4, 5
+ *   **Penalty** (whether there is a -1 penalty for death): On, **Off***   **Quantity** (how many coins will appear at once): **1**, 2, 3, 4, 5
 
-    ### ![](gfx/docs/m06.png)Stomp
+ ### ![](gfx/docs/m06.png)Stomp
 
     In this mode, Goombas, Cheep Cheeps, and Koopas will randomly spawn; the goal is to stomp or shoot as many as you can. The first player to kill X enemies wins. Stomping other players does nothing; neither does getting killed on hazards. Collecting a 1UP counts as an extra kill.
 
@@ -636,9 +636,9 @@ Additional Parameters:
 
     Additional Parameters:
 
-    *   **Rate** (how often, in general, enemies appear): Very Slow, Slow, **Moderate**, Fast, Very Fast*   **Goomba, Koopa, and Cheep Cheep Sliders** (comparative rates of each enemy appearing): 0 to 10 each (defaults of 1, 1, and 2 respectively)
+ *   **Rate** (how often, in general, enemies appear): Very Slow, Slow, **Moderate**, Fast, Very Fast*   **Goomba, Koopa, and Cheep Cheep Sliders** (comparative rates of each enemy appearing): 0 to 10 each (defaults of 1, 1, and 2 respectively)
 
-    ### ![](gfx/docs/m07.png)Yoshi's Eggs
+ ### ![](gfx/docs/m07.png)Yoshi's Eggs
 
     In this mode, a Yoshi and a bouncy little green-spotted egg will randomly spawn. Players can pick the egg up by holding the Turbo button and bring it back to Yoshi to gain a point. The first person to return X eggs to Yoshi wins the game. If you die, of course, you will lose the egg; collecting a 1UP gives you an additional point. If the egg is not grabbed for a long enough period of time, it will move to another random location.
 
@@ -646,7 +646,7 @@ Additional Parameters:
 
     Additional Parameters: None
 
-    ### ![](gfx/docs/m08.png)Capture The Flag
+ ### ![](gfx/docs/m08.png)Capture The Flag
 
     In this mode, each team has a base and a flag. The goal is to protect your flag from being stolen and at the same time steal other teams' flags and bring them back to your base. The first team to return X enemy flags to their base wins. You can also bring your own flags back to your base if you can retrieve them from an opponent. Collecting a 1UP counts as having collected an enemy flag; dying in any way has no effect on your score.
 
@@ -654,9 +654,9 @@ Additional Parameters:
 
     Additional Parameters:
 
-    *   **Speed Slider** (for adjusting the speed of the bases' movement): 0 to 8 (default of 0)*   **Touch Return** (whether you can return your own flag to base just by touching it): On, **Off***   **Point Move** (whether your base moves after you score): **On**, Off*   **Auto Return** (seconds before your flag returns itself): None, 5, 10, 15, **20**, 25, 30, 35, 40, 45, 50, 55, 60
+ *   **Speed Slider** (for adjusting the speed of the bases' movement): 0 to 8 (default of 0)*   **Touch Return** (whether you can return your own flag to base just by touching it): On, **Off***   **Point Move** (whether your base moves after you score): **On**, Off*   **Auto Return** (seconds before your flag returns itself): None, 5, 10, 15, **20**, 25, 30, 35, 40, 45, 50, 55, 60
 
-    ### ![](gfx/docs/m09.png)Chicken
+ ### ![](gfx/docs/m09.png)Chicken
 
     In this mode, the first person to kill another person will turn into the chicken. The player that is the chicken will constantly rack up points. The first player to X points wins. Dying on spikes will cause you to stop being the chicken, if you are; collecting a 1UP mushroom will give you 10 points no matter who you are. Killing another player while you're the chicken will also give you a bonus of 5 points.
 
@@ -664,9 +664,9 @@ Additional Parameters:
 
     Additional Parameters:
 
-    *   **Show Target** (whether an extra crosshair is displayed around the chicken): **On**, Off
+ *   **Show Target** (whether an extra crosshair is displayed around the chicken): **On**, Off
 
-    ### ![](gfx/docs/m10.png)Tag
+ ### ![](gfx/docs/m10.png)Tag
 
     Tag is essentially the opposite of Chicken mode. At the start, one player will randomly be chosen as the tagged player (they will turn bright green with a white border). It is the job of the tagged one to kill (or touch) somebody else to transfer the tag. The tagged player gets a speed boost to help him catch the other players. When you're the tagged player, you'll constantly be losing points. When you hit 0, you are removed from the game and the player with the highest points will then become tagged. Being killed or killing yourself takes 5 points off your score and collecting a 1UP mushroom restores 10 points.
 
@@ -674,13 +674,13 @@ Additional Parameters:
 
     Additional Parameters:
 
-    *   **Touch Tag** (whether you can transfer the tag by just touching): **On**, Off
+ *   **Touch Tag** (whether you can transfer the tag by just touching): **On**, Off
 
-    ### ![](gfx/docs/m11.png)Star
+ ### ![](gfx/docs/m11.png)Star
 
     In this mode, there will either be a Ztar or a Shine, depending on how the options are set. One player will be designated to be the owner of this object, and if other players touch it, they will steal the object's ownership status. There is also a timer that gradually counts down.
 
-    *   If the object in play is a Ztar, whoever has it when the clock hits 0 will lose a life. The clock will reset, and the same person will own the Ztar next time. Once a player is eliminated, the Ztar will go to the next player who has the most lives remaining (chosen at random if there is a tie). If you own the Ztar, you should try to hit other people with it (either by tagging or by throwing) so that they will take ownership.*   If the object in play is a Shine, whoever _doesn't_ have it when the clock hits 0 will lose a life. The clock will reset, and the Shine will change owners to whoever has the least number of lives remaining (chosen at random if there is a tie). If you own the Shine, you should try to keep it away from other players so that they can't take ownership.*   In either case, if the object in play stays out of its owner's hands for too long, it will warp right to them so they can start using it/keeping it away again.  
+ *   If the object in play is a Ztar, whoever has it when the clock hits 0 will lose a life. The clock will reset, and the same person will own the Ztar next time. Once a player is eliminated, the Ztar will go to the next player who has the most lives remaining (chosen at random if there is a tie). If you own the Ztar, you should try to hit other people with it (either by tagging or by throwing) so that they will take ownership.*   If the object in play is a Shine, whoever _doesn't_ have it when the clock hits 0 will lose a life. The clock will reset, and the Shine will change owners to whoever has the least number of lives remaining (chosen at random if there is a tie). If you own the Shine, you should try to keep it away from other players so that they can't take ownership.*   In either case, if the object in play stays out of its owner's hands for too long, it will warp right to them so they can start using it/keeping it away again.  
 
     Dying in any way other than from the countdown ending has no effect on your score. It's also important to know that in this mode, since the number of lives you start with is quite small, and extra lives are very valuable, 2UPs and 3UPs are only worth 1 extra life, and 5UPs are worth only 2.
 
@@ -688,9 +688,9 @@ Additional Parameters:
 
     Additional Parameters:
 
-    *   **Time** (# of seconds on the timer): 5, 10, 15, 20, 25, **30**, 35, 40, 45, 50, 55, 60*   **Star Type** (which object is used): **Ztar**, Shine
+ *   **Time** (# of seconds on the timer): 5, 10, 15, 20, 25, **30**, 35, 40, 45, 50, 55, 60*   **Star Type** (which object is used): **Ztar**, Shine
 
-    ### ![](gfx/docs/m12.png)Domination
+ ### ![](gfx/docs/m12.png)Domination
 
     This mode is like the domination mode from many FPSs. There will be several bases randomly placed around the map and it is the goal to control as many of them as possible. You control them by tagging them. The more you control, the faster you accumulate points; the first player to accumulate X points wins. Additionally, every so often the bases will automatically relocate themselves to new, random positions. Collecting a 1UP gives you 10 points; what happens when you die (by any means) can be set in this mode's options.
 
@@ -698,11 +698,11 @@ Additional Parameters:
 
     Additional Parameters:
 
-    *   **Quantity** (the number of bases that appear): 1 to 10, # Players - 1, # Players, **# Players + 1**, # Players + 2 to 6, 2x Players - 3 to 1, 2x Players, 2x Players + 1 or 2*   **Relocate** (time between relocations): Never, 5, 10, 15, **20**, 25, 30, or 45 seconds, 1, 1.5, 2, 2.5, or 3 minutes   
+ *   **Quantity** (the number of bases that appear): 1 to 10, # Players - 1, # Players, **# Players + 1**, # Players + 2 to 6, 2x Players - 3 to 1, 2x Players, 2x Players + 1 or 2*   **Relocate** (time between relocations): Never, 5, 10, 15, **20**, 25, 30, or 45 seconds, 1, 1.5, 2, 2.5, or 3 minutes   
     On Death:  
-    *   **Lose Bases** (whether your bases reset to neutral): **On**, Off*   **Move Bases** (whether your bases move): On, **Off***   **Steal Bases** (whether your bases are taken by who killed you): On, **Off***   Steal Bases overrides Lose Bases when it is on.
+ *   **Lose Bases** (whether your bases reset to neutral): **On**, Off*   **Move Bases** (whether your bases move): On, **Off***   **Steal Bases** (whether your bases are taken by who killed you): On, **Off***   Steal Bases overrides Lose Bases when it is on.
 
-    ### ![](gfx/docs/m17.png)King Of The Hill
+ ### ![](gfx/docs/m17.png)King Of The Hill
 
     In this mode there is a small zone, "the hill," designated by a chainlink fence design. While your team is the only one with players in this zone, you have control of the hill; its border will change to your team's color and your team will gain points at a constant rate. However, the hill will occasionally relocate itself to a new, random position. First team to X points wins. Collecting a 1UP grants 10 points; dying does not affect your score.
 
@@ -710,9 +710,9 @@ Additional Parameters:
 
     Additional Parameters:
 
-    *   **Size** (size of the scoring zone): 2x2, **3x3**, 4x4, 5x5*   **Relocate** (time between relocations): Never, 5, 10, 15, **20**, 25, 30, or 45 seconds, 1, 1.5, 2, 2.5, or 3 minutes
+ *   **Size** (size of the scoring zone): 2x2, **3x3**, 4x4, 5x5*   **Relocate** (time between relocations): Never, 5, 10, 15, **20**, 25, 30, or 45 seconds, 1, 1.5, 2, 2.5, or 3 minutes
 
-    ### ![](gfx/docs/m13.png)Race
+ ### ![](gfx/docs/m13.png)Race
 
     In this mode, you must race around the map tagging moving targets in numerical order (you must tag "1" first, then "2", and so on). As you tag targets, your team indicator will appear on them. Once you tag all the numbered targets, head to the finish line (the checkered flag) to score a point. Collecting a 1UP gives you one extra lap; the penalty for dying can be configured in this mode's options. (It should be noted that in Race mode, 2UPs and 3UPs are only worth 1 extra lap, and 5UPs are worth only two, due to the usual small size of the goal score.)
 
@@ -720,9 +720,9 @@ Additional Parameters:
 
     Additional Parameters:
 
-    *   **Quantity** (the number of targets, including the checkered flag): 2, 3, **4**, 5, 6, 7, 8*   **Speed** (how fast the targets move): Very Slow, Slow, **Moderate**, Fast, Very Fast*   **Penalty** (what you lose when you die): None, One Goal, **All Goals**
+ *   **Quantity** (the number of targets, including the checkered flag): 2, 3, **4**, 5, 6, 7, 8*   **Speed** (how fast the targets move): Very Slow, Slow, **Moderate**, Fast, Very Fast*   **Penalty** (what you lose when you die): None, One Goal, **All Goals**
 
-    ### ![](gfx/docs/m14.png)Owned
+ ### ![](gfx/docs/m14.png)Owned
 
     This mode is similar to Domination, except the players are your targets. Each player that you kill will spawn with a circle of your color behind them. For every player you have "Owned", the faster you accumulate points. If you are killed, you lose all your owned players. Collecting a 1UP gives you 10 points. Also, if you kill one of the players you already own, you will receive an extra 5 points.
 
@@ -730,7 +730,7 @@ Additional Parameters:
 
     Additional Parameters: None
 
-    ### ![](gfx/docs/m15.png)Frenzy
+ ### ![](gfx/docs/m15.png)Frenzy
 
     This mode has the same rules as Frag Limit, except special powerup cards will randomly spawn around the map. Collecting one of these cards has the same effect as getting that item out of an item box, for the most part. This just makes the basic deathmatch just a little more exciting, not to mention that it lets you have items on maps that usually don't. There are twelve items that can appear on the cards: Bob-Ombs, Fire Flowers, Hammers, Feathers, Boomerangs, POWs, MOds, Bullet Bills, and all four different types of Shells.
 
@@ -738,11 +738,11 @@ Additional Parameters:
 
     Additional Parameters:
 
-    *   **Limit** (the number of item cards shown at once): Single Powerup, 1 to 5 Powerups, **# Players - 1**, # Players,   
+ *   **Limit** (the number of item cards shown at once): Single Powerup, 1 to 5 Powerups, **# Players - 1**, # Players,   
     # Players + 1 to 3*   **Rate** (how long it takes for new cards to appear when they can): Instant, 1, 2, **3**, 5, 10, 15, 20, 25, or 30 seconds*   **Store Shells** (see note): **On**, Off*   **Sliders for Items** (comparative frequencies of each one appearing on cards): 0 to 10 each (defaults of 1 for Fire Flowers and Hammers, and 0 for everything else)  
-    *   If Limit is set to Single Item, no more cards will appear until the person who picked up the first one uses it (in the case of Stored items or the Bob-Omb), no longer has it (in the case of Weapon items or the Bob-Omb), or has touched it (in case of Shells). In either case there is no delay for the card to appear after the first time. (This is the same way that the card in Bob-Omb mode worked in version 1.5.)*   If Store Shells is set to On, then when you touch a shell card, the shell will become a Stored item. If it is set to Off, then touching a shell card has the same effect as touching a regular shell (i.e. if you are holding Turbo then you will grab the shell; otherwise you will just kick it out of midair).
+ *   If Limit is set to Single Item, no more cards will appear until the person who picked up the first one uses it (in the case of Stored items or the Bob-Omb), no longer has it (in the case of Weapon items or the Bob-Omb), or has touched it (in case of Shells). In either case there is no delay for the card to appear after the first time. (This is the same way that the card in Bob-Omb mode worked in version 1.5.)*   If Store Shells is set to On, then when you touch a shell card, the shell will become a Stored item. If it is set to Off, then touching a shell card has the same effect as touching a regular shell (i.e. if you are holding Turbo then you will grab the shell; otherwise you will just kick it out of midair).
 
-    ### ![](gfx/docs/m16.png)Survival
+ ### ![](gfx/docs/m16.png)Survival
 
     This mode has the same rules as Classic, except now, Thwomps will rain down from the sky, Podoboos will pop up from the bottom, and fireballs will shoot in from the sides. Hitting any of these hazards will kill you. Just as in Classic, the last player alive wins.
 
@@ -750,7 +750,7 @@ Additional Parameters:
 
     Additional Parameters:
 
-    *   **Thwomp, Podoboo, and Fireball sliders** (comparative frequencies of each one appearing): 0 to 10 each (defaults of 1, 0, and 0 respectively)*   **Density** (how often hazards appear overall): Very Low, Low, **Medium**, High, Very High*   **Speed** (how fast Thwomps fall down): Very Slow, Slow, **Moderate**, Fast, Very Fast*   **Shield** (allows you to set a separate shield setting for this mode): **On**, Off</div>
+ *   **Thwomp, Podoboo, and Fireball sliders** (comparative frequencies of each one appearing): 0 to 10 each (defaults of 1, 0, and 0 respectively)*   **Density** (how often hazards appear overall): Very Low, Low, **Medium**, High, Very High*   **Speed** (how fast Thwomps fall down): Very Slow, Slow, **Moderate**, Fast, Very Fast*   **Shield** (allows you to set a separate shield setting for this mode): **On**, Off</div>
 
 ## [Special Blocks [click to view]](javascript:toggleIt('sb'))
 
@@ -804,127 +804,127 @@ Here are the classes of items:
 
 *   **<font color="00aa00">Instant</font>** - These will be used immediately by the player upon picking it up.*   **<font color="770077">Stored</font>** - These will be stored in the player's item box and can be used at any time by pressing the Item button.*   **<font color="0000ff">Collectable</font>** - These will be treated as Instant items if the player doesn't already have them; otherwise they will be treated as Stored items.*   **<font color="ff0000">Weapon</font>** - These are just like Collectables, except that if you already have another Weapon, the one you already had becomes stored instead of the one you just got. Each player's current Weapon is displayed on top of their player icon on the score display.*   **<font color="ff7700">Throwable</font>** - These items cannot be gathered like other items, but you can pick them up when they are not moving by holding the Turbo button. When you release the button, you will throw the item.
 
-    ### ![](gfx/docs/i01.png)1UP Mushroom
+ ### ![](gfx/docs/i01.png)1UP Mushroom
 
-    **Type: <font color="00aa00">Instant</font>**
+ **Type: <font color="00aa00">Instant</font>**
 
     In game modes where the score is a measure of lives, frags, Goomba kills, etc., this item will grant you an extra life, frag, lap, etc. In all other modes, this item will grant you 10 extra points.
 
-    ### ![](gfx/docs/i02.png)2UP Mushroom
+ ### ![](gfx/docs/i02.png)2UP Mushroom
 
-    **Type: <font color="00aa00">Instant</font>**
+ **Type: <font color="00aa00">Instant</font>**
 
     Catching this pretty pink 'shroom counts as having collected 2 1UP Mushrooms (so you will receive either 2 extra lives, frags, etc., or 20 points towards the goal, with the exception of Race and Star modes in which this item still grants only 1 extra point). However, it moves a little faster than a 1UP.
 
-    ### ![](gfx/docs/i03.png)3UP Mushroom
+ ### ![](gfx/docs/i03.png)3UP Mushroom
 
-    **Type: <font color="00aa00">Instant</font>**
+ **Type: <font color="00aa00">Instant</font>**
 
     Grabbing a blue mushie counts as having collected 3 1UP Mushrooms (so you will receive either 3 extra lives, frags, etc., or 30 points towards the goal, with the exception of Race and Star modes in which this item still grants only 1 extra point). However, it moves quite a bit faster than a 1UP.
 
-    ### ![](gfx/docs/i04.png)5UP Mushroom
+ ### ![](gfx/docs/i04.png)5UP Mushroom
 
-    **Type: <font color="00aa00">Instant</font>**
+ **Type: <font color="00aa00">Instant</font>**
 
     Snagging this golden treat counts as having collected 5 1UP Mushrooms (so you will receive either 5 extra lives, frags, etc., or a whopping 50 points towards the goal, with the exception of Race and Star modes in which this item grants only 2 extra points). However, it is the fastest-moving of all the mushrooms, as well as the rarest item in the game!
 
-    ### ![](gfx/docs/i07.png)Poison Mushroom
+ ### ![](gfx/docs/i07.png)Poison Mushroom
 
-    **Type: <font color="00aa00">Instant</font>**
+ **Type: <font color="00aa00">Instant</font>**
 
     Upon collecting this item, unless you are invincible, you will die. This will have the same effect on your score as hitting spikes or lava.
 
-    ### ![](gfx/docs/i20.png)Mystery Mushroom
+ ### ![](gfx/docs/i20.png)Mystery Mushroom
 
-    **Type: <font color="00aa00">Instant</font>**
+ **Type: <font color="00aa00">Instant</font>**
 
     When you grab this item, everyone on the map will immediately switch positions and stored items with each other. The actual switching is random, so you could swap with Player 2 one time and with Player 3 the next. If whoever takes your place dies within one second of getting there, you will be credited with a kill. Additionally, whoever's place you take, you will also take their stored item in place of yours, even if they didn't have anything (in which case you will then have nothing stored). The effect used when players switch can be changed in the Options menu under Item Settings.
 
-    ### ![](gfx/docs/i05.png)Fire Flower
+ ### ![](gfx/docs/i05.png)Fire Flower
 
-    **Type: <font color="ff0000">Weapon</font>**
+ **Type: <font color="ff0000">Weapon</font>**
 
     This item gives you the ability to shoot deadly fireballs with the turbo button. Fireballs bounce along the ground for a while until they disappear, but they will also disappear if they hit a wall or another player.
 
-    ### ![](gfx/docs/i08.png)Hammer
+ ### ![](gfx/docs/i08.png)Hammer
 
-    **Type: <font color="ff0000">Weapon</font>**
+ **Type: <font color="ff0000">Weapon</font>**
 
     This item will give you the ability to throw hammers. Hammers travel in an arc whose lateral distance is determined by how fast you are moving, and as a result, hammers are not very easy to aim - but they can give you a big advantage over players who are trying to jump you if you can use them well.
 
-    ### ![](gfx/docs/i19.png)Boomerang
+ ### ![](gfx/docs/i19.png)Boomerang
 
-    **Type: <font color="ff0000">Weapon</font>**
+ **Type: <font color="ff0000">Weapon</font>**
 
     This item gives you the ability to shoot boomerangs. Using the default behavior, Boomerangs will travel ahead in a long arc before turning around and going in a straight line until they disappear. However, there are other trajectory types you can choose, under the Options menu (see below), if you don't like the default. Boomerangs, like hammers, can be shot through solid walls.
 
-    ### ![](gfx/docs/i18.png)Feather
+ ### ![](gfx/docs/i18.png)Feather
 
-    **Type: <font color="ff0000">Weapon</font>**
+ **Type: <font color="ff0000">Weapon</font>**
 
     When you grab this item, you will don a cape and be granted the ability to jump a second time in midair! The second jump will be weaker than the first, though. This item is great for reaching high ledges, items, and targets. (Note that even though the Feather doesn't allow you to shoot anything, it still counts as a Weapon, so you can't have both a Feather and a Fire Flower, for example.)
 
-    ### ![](gfx/docs/i06.png)Invincibility Star
+ ### ![](gfx/docs/i06.png)Invincibility Star
 
-    **Type: <font color="0000ff">Collectable</font>**
+ **Type: <font color="0000ff">Collectable</font>**
 
     Gives the player invincibility for 10 seconds. During this time, the player can walk on spikes/lava, stay above the map as long as they want, continually fall without burning up, and kill other players just by touching them.
 
-    ### ![](gfx/docs/i10.png)Bob-Omb
+ ### ![](gfx/docs/i10.png)Bob-Omb
 
-    **Type: <font color="0000ff">Collectable</font>**
+ **Type: <font color="0000ff">Collectable</font>**
 
     This item turns you into a Bob-Omb. Pressing the turbo button causes you to explode and kill players around you. However, you can only explode once before you return to normal again. If you kill a player who is a Bob-Omb, and you aren't one already (which includes if you were one and just exploded), you will steal their Bob-Omb status.
 
-    ### ![](gfx/docs/i09.png)Clock
+ ### ![](gfx/docs/i09.png)Clock
 
-    **Type: <font color="770077">Stored</font>**
+ **Type: <font color="770077">Stored</font>**
 
     When you use this item, all players that are not on your team will be slowed down and will only be able to jump 2 blocks high. These effects last for 10 seconds.
 
-    ### ![](gfx/docs/i13.png)Bullet Bill
+ ### ![](gfx/docs/i13.png)Bullet Bill
 
-    **Type: <font color="770077">Stored</font>**
+ **Type: <font color="770077">Stored</font>**
 
     When this item is used, Bullet Bills of your team color will fire in from the sides of the screen for about 5 seconds. Players on the opposing team must dodge or jump on the Bullet Bills to avoid death. Additionally, If two players' Bullet Bills collide, they will explode. This explosion will kill anyone it touches, including the owners of the Bullet Bills.
 
-    ### ![](gfx/docs/i11.png)POW Block
+ ### ![](gfx/docs/i11.png)POW Block
 
-    **Type: <font color="770077">Stored</font>**
+ **Type: <font color="770077">Stored</font>**
 
     When this item is used, the screen shakes for about half a second and any players that touch the ground during this time are killed. You should watch for when an opponent uses one of these, and make sure you make a big jump so you don't die.
 
-    ### ![](gfx/docs/i12.png)MOd Block
+ ### ![](gfx/docs/i12.png)MOd Block
 
-    **Type: <font color="770077">Stored</font>**
+ **Type: <font color="770077">Stored</font>**
 
     This item acts exactly like the POW block, except that when you use it, instead of killing players on the _ground_, you kill players in the _air_. So, when an opponent is using one of these, you should stay on the ground for a bit to avoid getting killed.
 
-    ### ![](gfx/docs/i14.png)Green Shell
+ ### ![](gfx/docs/i14.png)Green Shell
 
-    **Type: <font color="ff7700">Throwable</font>**
+ **Type: <font color="ff7700">Throwable</font>**
 
     When this item is thrown or stomped on, it will start bouncing around the map. It can be jumped a second time to stop it. It will kill the first person it hits while it is moving, and will disappear afterwards. It will also disappear if it stays moving for too long without hitting anyone. You can also kill Green Shells with projectile weapons such as fireballs. Green shells will not disappear by themselves if they are not moving or if someone is carrying them.
 
-    ### ![](gfx/docs/i15.png)Red Shell
+ ### ![](gfx/docs/i15.png)Red Shell
 
-    **Type: <font color="ff7700">Throwable</font>**
+ **Type: <font color="ff7700">Throwable</font>**
 
     This item is exactly like a Green Shell except for one detail: it doesn't stop when it hits one player, and will instead plow through as many things as are in its way until its time runs out or until someone shoots it.
 
-    ### ![](gfx/docs/i16.png)Spiny Shell
+ ### ![](gfx/docs/i16.png)Spiny Shell
 
-    **Type: <font color="ff7700">Throwable</font>**
+ **Type: <font color="ff7700">Throwable</font>**
 
     This item is exactly like the Red Shell, except that it is covered in spikes and so it can't be jumped on to stop it once it's going. It can still be shot, though.
 
-    ### ![](gfx/docs/i17.png)Buzzy Shell
+ ### ![](gfx/docs/i17.png)Buzzy Shell
 
-    **Type: <font color="ff7700">Throwable</font>**
+ **Type: <font color="ff7700">Throwable</font>**
 
     This item is exactly like the Red Shell, except that it is immune to projectile weapons. It can still be jumped, though.
 
-    #### A couple notes about Shells
+ #### A couple notes about Shells
 
     When two shells collide, if they are both the same "strength" (i.e. if they are both green or if they are both multikilling shells) then both of them will die. Otherwise, only the green shell will die (the multikilling shell will kill it and keep going). Also, when you win a shell from the Bonus Wheel, it will become a stored item. When you use it, if you are holding the Turbo button, the shell will appear in your hands so you can kick it; otherwise, it will appear in front of you and start moving right away.
 
@@ -1048,35 +1048,35 @@ With this, you can switch between Flat, SMB3, and Zelda styles.
 
 *   Flat style makes the boomerangs travel straight forward until they hit the edge of the screen, after which they "bounce" back and travel straight towards the other edge of the screen.*   SMB3 style makes the boomerangs travel in a long forward arc before turning around and coming back in a straight line.*   Zelda style makes the boomerangs travel straight forward for a short distance before turning around and seeking out the player that shot them.
 
-    #### Boomerang Life
+ #### Boomerang Life
 
     This can be set between 1 and 10 seconds, in increments of 1 second. Like the Fireball Life setting, boomerangs will automatically disappear after staying onscreen for this long.
 
-    #### Boomerang Limit
+ #### Boomerang Limit
 
     This allows you to limit the number of boomerangs you can shoot with each pickup. Like the other Limit options, it can be set to 2, 5, 8, 10, 12, 15, 20, 25, 30, 40, 50, or Unlimited. Unlike other weapons, however, if you don't catch your own boomerangs, you are penalized by an extra shot.
 
-    #### Hammer Life
+ #### Hammer Life
 
     This can be set between 0.5 and 1.2 seconds, in increments of 0.1 second, or you can set it to No Limit. Like the Fireball Life setting, hammers will automatically disappear after staying onscreen for this long. If you set this to No Limit, then hammers will disappear off the bottom of the screen.
 
-    #### Hammer Delay
+ #### Hammer Delay
 
     Because hammers are so powerful, there is a delay after firing one in which you are not allowed to fire another. Here, you can set this delay to between 0 (none) and 1 second, in increments of 0.1 second.
 
-    #### Hammer Power
+ #### Hammer Power
 
     When this is set to One Kill, hammers disappear when they hit something. When set to Multiple Kills, hammers will go right through everything they touch!
 
-    #### Hammer Limit
+ #### Hammer Limit
 
     This allows you to limit the number of hammers you can shoot with each item pickup. Like the Fireball limit, it can be set to 2, 5, 8, 10, 12, 15, 20, 25, 30, 40, 50, or Unlimited.
 
-    #### Shell Life
+ #### Shell Life
 
     This setting allows you to change how long shells last before they automatically disappear. It can be set to 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 25, or 30 seconds, or you can set it to Unlimited.
 
-    #### Blue Block Life
+ #### Blue Block Life
 
     Similar to the Shell Life setting, this allows you to change how long Blue Blocks last before they disappear. Unlike the Shell setting, however, this also affects how long you can hold them before they disappear in your hands. The same options as for Shell Life are available.
 
@@ -1092,39 +1092,39 @@ This allows you to change the way players appear on the map.
 
 *   When set to **Instant**, players will simply appear out of nowhere.*   When set to **Door**, players will drop out of doors, as in the original DOS Mario War. The door's appearance causes about one half second of extra delay between the start and end of spawning.*   When set to **Swirl**, a large, colorful swirl will appear just before players spawn. This option makes the spawn very easy to spot, but also causes around one full second of extra delay.
 
-    #### Awards
+ #### Awards
 
     This allows you to change the type of extra eyecandy shown on screen when a player gets three or more consecutive kills.
 
-    *   **Fireworks** causes basic eyecandy to shoot out of the player, like a fireworks display.*   **Spiral** causes basic eyecandy to spiral out from the player.*   **Ring** causes small icons to circle the player. These icons represent the last 10 kill types (so, for example, when you hit someone with a fireball, you will receive a Fire Flower icon). When the player is killed, these icons will scatter.*   **Souls** causes nothing to be displayed until the player's chain of kills is broken, after which several icons will fly out of the dead player, representing the souls of the players he killed.*   **Text** causes a simple text indicator to pop out of the player. (This is also the only option which gives an award for only 2 consecutive kills.)*   **None** disables all effects.
+ *   **Fireworks** causes basic eyecandy to shoot out of the player, like a fireworks display.*   **Spiral** causes basic eyecandy to spiral out from the player.*   **Ring** causes small icons to circle the player. These icons represent the last 10 kill types (so, for example, when you hit someone with a fireball, you will receive a Fire Flower icon). When the player is killed, these icons will scatter.*   **Souls** causes nothing to be displayed until the player's chain of kills is broken, after which several icons will fly out of the dead player, representing the souls of the players he killed.*   **Text** causes a simple text indicator to pop out of the player. (This is also the only option which gives an award for only 2 consecutive kills.)*   **None** disables all effects.
 
-    #### Scores
+ #### Scores
 
     This option enables you to change where the scores are displayed onscreen. Top and Bottom place all the scores in those places, and Corners will put one score in each corner of the screen.
 
-    #### Crunch
+ #### Crunch
 
     When this is on, the screen will "crunch" each time someone dies, just as in the original DOS Mario War.
 
-    #### Top Layer
+ #### Top Layer
 
     Some maps have layers of tiles which the players can move behind. When this is set to Foreground, the players and all the special blocks on the map will appear behind these tiles. When this is set to Background, the players, blocks, projectiles, etc. will appear in front of these tiles. Setting this to Background can improve performance on slower machines, but will often cause the game to look weird because the players will be walking in front of stuff they shouldn't be.
 
-    #### Crown
+ #### Crown
 
     When this is On, the crown that appears on the winner's head on the score display will also appear on their head in the actual game, so that they are more easily identifiable. When set to Off, the crown will only appear on the score display.
 
-    #### Screen
+ #### Screen
 
     This simply allows you to change between Fullscreen and Windowed modes. (This doesn't appear on the Xbox version.)
 
-    #### Screen Settings (Xbox version)
+ #### Screen Settings (Xbox version)
 
     This will take you to a menu where you can change various screen settings. **We are NOT responsible if you screw up your TV with these - use at your own risk!!**
 
-    *   **Screen Resize** allows you to resize the picture on the screen so that it shows up better on your TV - use the left thumbstick to move the upper-left corner of the screen, the right thumbstick to move the lower-left corner of the screen, or press X to switch to a pre-set size.*   **Screen Filter** will change the method by which the picture is rendered on the screen. The different options are Point, Bilinear, Trilinear, Anisotropic, Quincunx, and Gaussian Cubic. The default is Bilinear. Different settings will look better or worse on different screens.*   **Flicker Filter** will attempt to filter out the flicker which some TVs generate. It can be set between 0 and 5, with a default of 5\. Different settings will look better on different screens.*   **Soften Filter** will add a softening effect (a blur) to the screen. It can be set to On or Off, default to Off.
+ *   **Screen Resize** allows you to resize the picture on the screen so that it shows up better on your TV - use the left thumbstick to move the upper-left corner of the screen, the right thumbstick to move the lower-left corner of the screen, or press X to switch to a pre-set size.*   **Screen Filter** will change the method by which the picture is rendered on the screen. The different options are Point, Bilinear, Trilinear, Anisotropic, Quincunx, and Gaussian Cubic. The default is Bilinear. Different settings will look better or worse on different screens.*   **Flicker Filter** will attempt to filter out the flicker which some TVs generate. It can be set between 0 and 5, with a default of 5\. Different settings will look better on different screens.*   **Soften Filter** will add a softening effect (a blur) to the screen. It can be set to On or Off, default to Off.
 
-    #### Menu Gfx and Game Gfx
+ #### Menu Gfx and Game Gfx
 
     This allows you to select custom graphics packs if you have any installed on your machine. Graphics packs are installed by unzipping them into the gfx/packs subfolder of the game. (Make sure that when you unzip the files, they stay in their original directories; otherwise the game will not recognize the new packs!)
 
