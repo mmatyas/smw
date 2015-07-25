@@ -8,9 +8,13 @@ COMMON_OBJS:=build/FileIO.o build/FileList.o build/MapList.o \
            build/savepng.o build/sfx.o
 SMW_OBJS:= build/HashTable.o build/ai.o build/gamemodes.o build/main.o \
            build/map.o build/menu.o build/object.o build/player.o \
-           build/splash.o build/uicontrol.o build/uimenu.o build/world.o
+           build/splash.o build/uicontrol.o build/uimenu.o build/world.o \
+		build/objecthazard.o build/objectgame.o build/modeoptionsmenu.o \
+		build/uicustomcontrol.o
 LEVELEDIT_OBJS:=build/leveleditor.o
-WORLDEDIT_OBJS:=build/sfx.o build/world.o build/worldeditor.o
+WORLDEDIT_OBJS:=build/sfx.o build/objecthazard.o build/object.o \
+		build/uicontrol.o build/uimenu.o build/modeoptionsmenu.o \
+		build/world.o build/worldeditor.o
 
 include configuration
 #here because of one .c file among a .cpp project (o_O)

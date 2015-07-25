@@ -16,6 +16,7 @@
 #include "dirlist.h"
 #include <ctype.h>
 #include <iostream>
+#include <algorithm>
 using std::cout;
 using std::endl;
 using std::string;

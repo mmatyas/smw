@@ -4630,7 +4630,8 @@ MenuCodeEnum MI_World::SendInput(CPlayerInput * playerInput)
 		if(!fNoInterestingMoves)
 		{
 			fNeedAiControl = true;
-			for(short iTeamMember = 0; iTeamMember < game_values.teamcounts[iControllingTeam]; iTeamMember++)
+			short iTeamMember = 0;
+			for(; iTeamMember < game_values.teamcounts[iControllingTeam]; iTeamMember++)
 			{
 				if(game_values.playercontrol[game_values.teamids[iControllingTeam][iTeamMember]] == 1)
 				{

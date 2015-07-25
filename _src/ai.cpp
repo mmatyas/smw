@@ -345,7 +345,8 @@ void CPlayerAI::Think(COutputControl * playerKeys)
 			{
 				delete itr->second;
 			
-				itr = attentionObjects.erase(itr);
+				attentionObjects.erase(itr);
+				itr = attentionObjects.begin(); // do not blame me, just read http://msdn.microsoft.com/en-us/library/z2f3cb7h(v=vs.80).aspx
 				lim = attentionObjects.end();
 			}
 		}
