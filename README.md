@@ -1,3 +1,24 @@
+# How to Install on the Raspberry Pi
+
+### Clone Repository
+
+```
+git clone https://github.com/HerbFargus/smw.git
+```
+### Configure make and install
+```
+cd smw
+chmod +x configure
+./configure
+make
+sudo make install
+```
+### Remove uneeded files
+```
+sudo rm -r smw
+```
+to run type `smw` in the terminal
+
 ![](gfx/docs/splash.png)
 
 <div id="content">
